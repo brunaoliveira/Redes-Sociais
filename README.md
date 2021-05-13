@@ -5,14 +5,22 @@
     - [ ] diminuir tamanho dos vértices
     - [ ] colocar nome da cidade como label (ver se fica poluído)
     - [ ] testar os diferentes tipos de layout (deixar mais fácil a visualização)
+    - [ ] label e cor mais forte
+- Tabela
+    - [ ] nº de arestas
+    - [ ] nº de vértices 
+    - [ ] retirar clustering 
+    - [ ] clique number
+    - [ ] grau médio
+    - [ ] grau máximo
+    - [ ] coeficiente de agrupamento
+    - [ ] densidade
 - Características do grafo
-    - [ ] clustering ficou mto confuso: entender melhor
+    - [x] clustering ficou mto confuso: entender melhor
     - [ ] aplicar mais medidas
-    - [ ] calcular densidade
+    - [ ] observar os cliques
 - Algoritmo
     - [x] retornar à tabela a coluna de nº de habitantes da cidade
     - [x] adicionar coluna com cálculo nº de casos/habitante
     - [ ] também usar número de casos/habitantes na hora de acrescentar os vértices
     - [ ] atualizar o dataset (baixar novamente da fonte)
-    
-    
