@@ -9,7 +9,7 @@
 - Tabela
     - [x] nº de arestas
     - [x] nº de vértices 
-    - [ ] retirar clustering 
+    - [x] retirar clustering 
     - [ ] clique number
     - [ ] grau médio
     - [ ] grau máximo
