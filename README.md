@@ -7,8 +7,8 @@
     - [ ] testar os diferentes tipos de layout (deixar mais fácil a visualização)
     - [ ] label e cor mais forte
 - Tabela
-    - [ ] nº de arestas
-    - [ ] nº de vértices 
+    - [x] nº de arestas
+    - [x] nº de vértices 
     - [ ] retirar clustering 
     - [ ] clique number
     - [ ] grau médio
