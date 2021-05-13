@@ -10,17 +10,17 @@
     - [x] nº de arestas
     - [x] nº de vértices 
     - [x] retirar clustering 
-    - [ ] clique number
-    - [ ] grau médio
-    - [ ] grau máximo
-    - [ ] coeficiente de agrupamento
+    - [x] clique number
+    - [x] grau médio
+    - [x] grau máximo
+    - [x] coeficiente de agrupamento
     - [ ] densidade
 - Características do grafo
     - [x] clustering ficou mto confuso: entender melhor
-    - [ ] aplicar mais medidas
     - [ ] observar os cliques
 - Algoritmo
     - [x] retornar à tabela a coluna de nº de habitantes da cidade
     - [x] adicionar coluna com cálculo nº de casos/habitante
-    - [ ] também usar número de casos/habitantes na hora de acrescentar os vértices
+    - [x] também usar número de casos/habitantes na hora de acrescentar os vértices
     - [ ] atualizar o dataset (baixar novamente da fonte)
+    - [ ] pesquisar diferença entre funções de cálculo de distância (distance/geodesic)
