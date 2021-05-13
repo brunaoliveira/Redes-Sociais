@@ -11,7 +11,7 @@
     - [ ] calcular densidade
 - Algoritmo
     - [x] retornar à tabela a coluna de nº de habitantes da cidade
-    - [ ] adicionar coluna com cálculo nº de casos/habitante
+    - [x] adicionar coluna com cálculo nº de casos/habitante
     - [ ] também usar número de casos/habitantes na hora de acrescentar os vértices
     - [ ] atualizar o dataset (baixar novamente da fonte)
     
