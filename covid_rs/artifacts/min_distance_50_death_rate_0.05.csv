@@ -1,2 +1,2 @@
-min_distance,density,clustering_weak,clustering_strong,diameter_size
-50,,,,17
+min_distance,death_rate,diameter_size,# vertices,#edges,clique_number,med_degree,max_degree
+50,0.05,17,253,2379,18,39,39
