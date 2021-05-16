@@ -7,6 +7,8 @@
     - [ ] testar os diferentes tipos de layout (deixar mais fácil a visualização)
     - [ ] label e cor mais forte
     - [ ] remove nodos sem arestas
+    - [x] não adicionar segunda aresta no grafo
+    - [ ] tornar grafo bidirecional
 - Tabela
     - [x] nº de arestas
     - [x] nº de vértices 
