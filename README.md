@@ -6,7 +6,7 @@
     - [ ] colocar nome da cidade como label (ver se fica poluído)
     - [ ] testar os diferentes tipos de layout (deixar mais fácil a visualização)
     - [ ] label e cor mais forte
-    - [ ] remove nodos sem arestas
+    - [x] remove nodos sem arestas
     - [x] não adicionar segunda aresta no grafo
     - [ ] tornar grafo bidirecional
 - Tabela
