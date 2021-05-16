@@ -1,2 +1,2 @@
-min_distance,death_rate,diameter_size,# vertices,#edges,clique_number,med_degree,max_degree
-50,0.05,17,253,2379,18,39,39
+#vertices,#edges,min_distance,death_rate,diameter_size,clique_number,med_degree,max_degree,density_loop,density_no_loop
+253,2379,50,0.05,17,18,39,39,0.07404064610500763,0.07462827028044419
