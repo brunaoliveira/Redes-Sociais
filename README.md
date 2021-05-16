@@ -2,10 +2,10 @@
 
 ### To Do list
 - Plot
-    - [ ] diminuir tamanho dos vértices
-    - [ ] colocar nome da cidade como label (ver se fica poluído)
+    - [x] diminuir tamanho dos vértices
+    - [x] colocar nome da cidade como label (ver se fica poluído)
     - [ ] testar os diferentes tipos de layout (deixar mais fácil a visualização)
-    - [ ] label e cor mais forte
+    - [ ] maior death reate: label + cor mais forte
     - [x] remove nodos sem arestas
     - [x] não adicionar segunda aresta no grafo
     - [ ] tornar grafo bidirecional
