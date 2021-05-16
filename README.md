@@ -18,7 +18,7 @@
     - [x] grau máximo
     - [x] coeficiente de agrupamento
     - [ ] densidade
-    - [ ] fix columns saved
+    - [x] fix columns saved
 - Características do grafo
     - [x] clustering ficou mto confuso: entender melhor
     - [ ] observar os cliques
