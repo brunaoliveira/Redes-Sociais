@@ -8,7 +8,7 @@
     - [ ] maior death reate: label + cor mais forte
     - [x] remove nodos sem arestas
     - [x] não adicionar segunda aresta no grafo
-    - [ ] tornar grafo bidirecional
+    - [x] tornar grafo bidirecional
 - Tabela
     - [x] nº de arestas
     - [x] nº de vértices 
@@ -17,7 +17,7 @@
     - [x] grau médio
     - [x] grau máximo
     - [x] coeficiente de agrupamento
-    - [ ] densidade
+    - [x] densidade
     - [x] fix columns saved
 - Características do grafo
     - [x] clustering ficou mto confuso: entender melhor
