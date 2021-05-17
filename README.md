@@ -26,5 +26,5 @@
     - [x] retornar à tabela a coluna de nº de habitantes da cidade
     - [x] adicionar coluna com cálculo nº de casos/habitante
     - [x] também usar número de casos/habitantes na hora de acrescentar os vértices
-    - [ ] atualizar o dataset (baixar novamente da fonte)
+    - [x] atualizar o dataset (baixar novamente da fonte)
     - [ ] pesquisar diferença entre funções de cálculo de distância (distance/geodesic)
