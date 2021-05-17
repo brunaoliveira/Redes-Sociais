@@ -1,0 +1,2 @@
+#vertices,#edges,min_distance,death_rate,diameter_size,clique_number,med_degree,max_degree,density_loop,density_no_loop,avg_local_transitivity,transitivity,girth,radius,average_path_length
+94,404,50,250,20,15,20,20,0.090481522956327,0.09242736215968886,0.7354517857273615,0.7442562079368763,3,1.0,7.371644704734017
